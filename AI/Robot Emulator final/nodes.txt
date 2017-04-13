@@ -1,0 +1,31 @@
+
+the conditions
+
+Water
+Sand
+Mountain
+Dark
+Obstacles
+Light
+Rubble
+Rocks
+Wind
+Waterfalls
+Rain
+Glass
+Fire
+Forest
+Collapses
+Temperature
+TrafficSigns
+
+
+
+results
+
+  height
+  width
+  material
+  speed
+  weight
+  wheelnum   or  legnum
