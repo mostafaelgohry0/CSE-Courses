@@ -1,0 +1,25 @@
+; calcute the factorial 
+
+   read 
+   
+      store fac 
+      store  num
+     
+repet:
+          
+              sub  num
+             jumpz  done         ;  if n = 1 
+             multi  num
+             store  num
+             jump  repet      
+done:  
+       load num
+       write 
+       stop
+
+
+
+
+fac:  .data 2  0
+num:  .data 2  0
+
